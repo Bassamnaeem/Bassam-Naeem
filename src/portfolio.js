@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 👨‍💻 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/0789789_/view?usp=sharing",
+    "https://drive.google.com/file/d/18bYkCP0gbKAZeHX-AJy2iSQyn1Ehgfiu/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -120,7 +120,7 @@ const educationInfo = {
       schoolName: "University Of Karachi",
       logo: require("./assets/images/uoklogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "February 2021 - February 2024",
+      duration: "2020 - 2024",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: []
     }
