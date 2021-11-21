@@ -324,7 +324,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "bassamnaeem38", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 export {
